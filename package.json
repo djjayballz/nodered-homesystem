@@ -1,0 +1,12 @@
+{
+    "name": "Homesys2020",
+    "description": "blabla",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow-homesys2020.json",
+            "credentialsFile": "flow-homesys2020_cred.json"
+        }
+    }
+}
