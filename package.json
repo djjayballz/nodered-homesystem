@@ -2,7 +2,18 @@
     "name": "Homesys2020",
     "description": "blabla",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-chatbot": "0.18.15",
+        "node-red-contrib-counter": "0.1.5",
+        "node-red-contrib-edge-trigger": "0.1.5",
+        "node-red-contrib-interval-length": "0.0.4",
+        "node-red-contrib-linux-memory": "0.6.1",
+        "node-red-contrib-moment": "3.0.3",
+        "node-red-contrib-persist": "1.0.3",
+        "node-red-contrib-telegrambot": "8.1.0",
+        "node-red-dashboard": "2.21.0",
+        "node-red-node-smooth": "0.1.2"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flow-homesys2020.json",
